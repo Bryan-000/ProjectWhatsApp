@@ -2,7 +2,7 @@
 ## Description
 Turns every enemy in [Project//Destroy by Duviz](https://www.insertsteamurlherewhenitreleases.com "Insert Steam url here when it releases") into WhatsApp.
 ## Download and Installation
-[![DOWNLOAD](https://cdn.discordapp.com/attachments/1403763469022400596/1447246402756284436/download.png?ex=6936ecbe&is=69359b3e&hm=f9152e71e25255e1da1335b943c2aed326d0e7763a17c891fa6c08b2d266898a& "download ProjectWhatsApp.zip")](https://github.com/Bryan-000/SSNC/releases/download/V1.0.0/SSNC.zip)
+[![DOWNLOAD](https://raw.githubusercontent.com/Bryan-000/ProjectWhatsApp/refs/heads/main/Assets/Git/download.png "download ProjectWhatsApp.zip")](https://github.com/Bryan-000/ProjectWhatsApp/releases/download/V1.0.0/ProjectWhatsApp.zip)
 
 * Step 1: Download the ProjectWhatsApp.zip (press the button above)
 * Step 2: Download BepInEx, you can get it from [here](https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.4/BepInEx_win_x64_5.4.23.4.zip "BepInEx 5.4.23.4 Windows x64")
