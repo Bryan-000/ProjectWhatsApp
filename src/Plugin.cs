@@ -3,11 +3,7 @@
 using BepInEx;
 using HarmonyLib;
 using System.IO;
-using System.Linq;
-using System.Reflection;
-using System.Runtime.CompilerServices;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 /// <summary> Base plugin class, does all the set up and fancy. </summary>
 [BepInPlugin(PluginInfo.GUID, PluginInfo.Name, PluginInfo.Version)]

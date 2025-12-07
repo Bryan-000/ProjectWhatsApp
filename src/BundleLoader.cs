@@ -1,6 +1,5 @@
 ﻿namespace ProjectWhatsApp;
 
-using System.IO;
 using UnityEngine;
 
 /// <summary> Loader for the mods assets. </summary>
