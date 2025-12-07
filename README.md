@@ -1,6 +1,6 @@
 # ProjectWhatsApp
 ## Description
-Turns every enemy in [Project//Destroy by Duviz](https://www.insertsteamurlherewhenitreleases.com "Insert Steam url here when it releases") into WhatsApp.
+Turns every enemy in [Project//Destroy by Duviz](https://discord.gg/yNzSC679cF "Join the discord server and become a tester") into WhatsApp.
 ## Download and Installation
 [![DOWNLOAD](https://raw.githubusercontent.com/Bryan-000/ProjectWhatsApp/refs/heads/main/Assets/Git/download.png "download ProjectWhatsApp.zip")](https://github.com/Bryan-000/ProjectWhatsApp/releases/download/V1.0.0/ProjectWhatsApp.zip)
 
