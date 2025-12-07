@@ -1,0 +1,13 @@
+﻿<Project>
+	<PropertyGroup>
+		<!-- Set this to the path to your ProjectDestroy folder. -->
+		<ProjectDestoryPath>C:\Program Files (x86)\Steam\steamapps\common\ProjectDestroy</ProjectDestoryPath>
+
+		<!-- You shouldn't need to touch these. -->
+		<ManagedPath>$(ProjectDestoryPath)\Project_Destroy_Data\Managed</ManagedPath>
+		<BepInExPath>$(ProjectDestoryPath)\BepInEx</BepInExPath>
+
+		<!-- Where the dll is copied to when building. (Depending on where your ProjectWhatsApp folder is, you may need to change this.)-->
+		<CopyPath>$(BepInExPath)\plugins\ProjectWhatsApp\</CopyPath>
+	</PropertyGroup>
+</Project>
